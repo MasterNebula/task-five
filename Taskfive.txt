@@ -1,5 +1,5 @@
- nmap -p- 10.0.2.4                     
-Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-09-28 11:01 EDT
+nmap -p- 10.0.2.4                     
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-09-18 05:16 EDT
 Nmap scan report for 10.0.2.4
 Host is up (0.00052s latency).
 Not shown: 65505 closed tcp ports (conn-refused)
